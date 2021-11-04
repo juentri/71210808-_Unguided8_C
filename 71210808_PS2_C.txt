@@ -1,0 +1,7 @@
+Ember yang akan penuh karena air hujan adalah ember B
+karena saat mulai mengalir dari atap yang bocor
+air akan masuk  ke ke dalam rumah 
+dan mulai mengisi saluran menuju ember A 
+tetapi ember A tidak akan terisi karena salurannya tertutup
+tetapi untuk saluran sebelah air akan mengisi saluran tetapi tidak akan masuk ke dalam ember C dan D karena saluran di tutup untuk menuju kesana
+tetapi air akan menuju ke saluran ember B dan mulai mengisi ember B sampai penuh
